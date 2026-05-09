@@ -91,6 +91,16 @@ streamlit run dashboard.py
 - Daily Return Analysis
 
 ---
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](images/dashboard_home.png)
+
+### Live Logs
+![Logs](images/live_logs.png)
+
+### Reports
+![Reports](images/reports_page.png)
 
 ## Learning Outcomes
 
